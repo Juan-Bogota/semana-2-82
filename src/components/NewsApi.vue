@@ -62,8 +62,6 @@ export default {
         });
         const data = await result.json();
         this.news = data.articles.slice(0, 4);
-
-        //drawMovies(data);
       } catch (error) {
         console.log(error);
       }

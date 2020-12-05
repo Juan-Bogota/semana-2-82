@@ -10,7 +10,12 @@
       </span>
     </div>
     <div class="card-body">
-      <h3 class="card-title">{{ member.nombre }} ({{ member.codigo }})</h3>
+      <h4 class="card-title">
+        {{ member.nombre }}
+      </h4>
+      <p>
+        <span class="text-danger"> Cod: {{ member.codigo }}</span>
+      </p>
       <h5>
         <b>Rol:</b> <span class="text-info">{{ member.rol }}</span>
       </h5>

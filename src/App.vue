@@ -62,7 +62,7 @@ export default {
           descripcion:
             " Ingeniero en electrónica de la Universidad del Quindio, tengo 25 años, soy de Armenia, Quindio y me gusta practicar deportes y pasear.",
           image: "img/camilo.PNG",
-          rol: "Desarrolladora BackEnd",
+          rol: "Desarrollador BackEnd",
         },
       ],
     };
