@@ -23,7 +23,7 @@ pnpm-debug.log*
 *.sw?
 
 
-# Created by: https://www.toptal.com/developers/gitignore/api/vue,vuejs,node
+# Created by https://www.toptal.com/developers/gitignore/api/vue,vuejs,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=vue,vuejs,node
 
 ### Node ###
